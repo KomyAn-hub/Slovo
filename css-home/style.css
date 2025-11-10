@@ -329,3 +329,35 @@ footer {
     }
 }
 
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5em;
+        letter-spacing: 2px;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+
+    .participant-card {
+        padding: 15px;
+    }
+
+    .burger {
+        top: 15px;
+        right: 15px;
+    }
+    
+    .info-section {
+        padding: 20px 15px;
+    }
+    
+    .info-section h2 {
+        font-size: 1.6em;
+    }
+    
+    .info-content p {
+        font-size: 1em;
+    }
+}
+
